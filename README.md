@@ -1,5 +1,5 @@
 # rmc-fifa
-### Réalisation d'un visuel à partager sur les RS d'une équipe de football
+### Réalisation d'un visuel à partager (ou à télécharger) sur les RS d'une équipe de football
 
 ````js
 //
